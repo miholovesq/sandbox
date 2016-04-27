@@ -1,4 +1,4 @@
-atestseewtae
+意味のない行は消す。
 atata
 nihongo
 日本語
