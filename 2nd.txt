@@ -1,3 +1,2 @@
-edited.
 CodeHubだと保存した途端にプッシュされる模様。
 Working Copyだとコミットとプッシュが別になる。
